@@ -13,6 +13,7 @@ warrant a full blog post.
 * [Development](#development)
   * [Devops](#devops)
   * [Git](#git)
+  * [Markdown](#markdown)
 
 * [Music Production](#music-production)
   * [Serum](#serum)
@@ -27,7 +28,7 @@ warrant a full blog post.
 - [Whitespace Warnings](dev/git/whitespace-warnings.md)
 
 ### Markdown
-- [Links Using References[(dev/md/links-using-references.md)
+- [Links Using References](dev/md/links-using-references.md)
 
 ---
 ## Music Production
