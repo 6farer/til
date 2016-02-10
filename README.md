@@ -6,8 +6,6 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
----
-
 ## Categories
 
 * [Development](#development)
@@ -21,30 +19,30 @@ warrant a full blog post.
 ---
 ## Development
 
-### Devops
+#### Devops
 - [Reload The nginx Configuration](dev/devops/reload-the-nginx-configuration.md)
 
-### Git
+#### Git
 - [Whitespace Warnings](dev/git/whitespace-warnings.md)
 
-### Markdown
+#### Markdown
 - [Links Using References](dev/md/links-using-references.md)
 
 ---
 ## Music Production
 
-### Serum
+#### Serum
 
 - [Intro to Serum](music/serum/intro-to-serum.md)
 
 ---
-## About
+### About
 
 I shamelessly stole this idea from
 [thoughtbot/til](https://github.com/thoughtbot/til)
 and jbranchaud.
 
-## Other TIL Collections
+### Other TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
 * [jbranchaud/til](https://github.com/jbranchaud/til)
