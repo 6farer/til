@@ -8,21 +8,34 @@ warrant a full blog post.
 
 ---
 
-### Categories
+## Categories
 
-* [Devops](#devops)
-* [Git](#git)
+* [Dev](#dev)
+  * [Devops](#devops)
+  * [Git](#git)
+
+* [Music Production](#music-production)
+  *
 
 ---
+## Dev
 
 ### Devops
 
-- [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
+- [Reload The nginx Configuration](dev/devops/reload-the-nginx-configuration.md)
 
 ### Git
 
-- [Whitespace Warnings](git/whitespace-warnings.md)
+- [Whitespace Warnings](dev/git/whitespace-warnings.md)
 
+---
+## Music Production
+
+### Serum
+
+- [Intro to Serum](music/serum/intro-to-serum.md)
+
+---
 ## About
 
 I shamelessly stole this idea from
