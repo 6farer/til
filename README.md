@@ -10,23 +10,24 @@ warrant a full blog post.
 
 ## Categories
 
-* [Dev](#dev)
+* [Development](#development)
   * [Devops](#devops)
   * [Git](#git)
 
 * [Music Production](#music-production)
-  *
+  * [Serum](#serum)
 
 ---
-## Dev
+## Development
 
 ### Devops
-
 - [Reload The nginx Configuration](dev/devops/reload-the-nginx-configuration.md)
 
 ### Git
-
 - [Whitespace Warnings](dev/git/whitespace-warnings.md)
+
+### Markdown
+- [Links Using References[(dev/md/links-using-references.md)
 
 ---
 ## Music Production
@@ -39,10 +40,12 @@ warrant a full blog post.
 ## About
 
 I shamelessly stole this idea from
-[thoughtbot/til](https://github.com/thoughtbot/til).
+[thoughtbot/til](https://github.com/thoughtbot/til)
+and jbranchaud.
 
 ## Other TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
+* [jbranchaud/til](https://github.com/jbranchaud/til)
 * [jwworth/til](https://github.com/jwworth/til)
 * [thoughtbot/til](https://github.com/thoughtbot/til)
