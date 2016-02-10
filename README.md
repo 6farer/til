@@ -20,20 +20,19 @@ warrant a full blog post.
 ## Development
 
 #### Devops
-- [Reload The nginx Configuration](dev/devops/reload-the-nginx-configuration.md)
+- [Reload The nginx Configuration](https://github.com/thewino/til/blob/master/dev/devops/reload-the-nginx-configuration.md)
 
 #### Git
-- [Whitespace Warnings](dev/git/whitespace-warnings.md)
+- [Whitespace Warnings](https://github.com/thewino/til/blob/master/dev/git/whitespace-warnings.md)
 
 #### Markdown
-- [Links Using References](dev/md/links-using-references.md)
+- [Links Using References](https://github.com/thewino/til/blob/master/dev/md/links-using-references.md)
 
----
 ## Music Production
 
 #### Serum
 
-- [Intro to Serum](music/serum/intro-to-serum.md)
+- [Intro to Serum](https://github.com/thewino/til/blob/master/music/serum/intro-to-serum.md)
 
 ---
 ### About
